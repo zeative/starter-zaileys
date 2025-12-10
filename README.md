@@ -1,24 +1,15 @@
-# starter-zaileys
+<div align="center">
+  <img alt="Starter Kit for Zaileys Library" src="https://socialify.git.ci/zeative/starter-zaileys/image?custom_description=Starter+Kit+for+Zaileys+Library+github.com%2Fzeative%2Fzaileys&custom_language=TypeScript&description=1&font=Inter&language=1&pattern=Charlie+Brown&theme=Auto">
 
-![starter-zaileys](https://socialify.git.ci/zeative/starter-zaileys/image?custom_description=Starter+Kit+for+Zaileys+Library+github.com%2Fzeative%2Fzaileys&custom_language=TypeScript&description=1&font=Inter&language=1&pattern=Charlie+Brown&theme=Auto)
+  <h1 align="center">Starter Kit for Zaileys Library</h1>
 
-<center>
-  <img src="https://img.shields.io/github/license/zeative/starter-zaileys" alt="License">
-  <img src="https://img.shields.io/badge/version-1.0.0-blue" alt="Version">
-  <img src="https://img.shields.io/badge/node-%3E%3D20-green" alt="Node">
-  <a href="https://discord.gg/SfnWWYUe">
-    <img src="https://img.shields.io/discord/1105833273415962654?logo=discord&label=discord&link=https%3A%2F%2Fgithub.com%2Fzeative%2Fzaileys" alt="Discord">
-  </a>
-  <a href="https://github.com/zeative/starter-zaileys">
-    <img src="https://img.shields.io/github/stars/zeative/starter-zaileys" alt="GitHub Stars">
-  </a>
-  <a href="https://github.com/zeative/starter-zaileys">
-    <img src="https://img.shields.io/github/forks/zeative/starter-zaileys" alt="GitHub Forks">
-  </a>
-  <a href="https://github.com/zeative/starter-zaileys">
-    <img src="https://img.shields.io/github/watchers/zeative/starter-zaileys" alt="GitHub Watchers">
-  </a>
-</center>
+<a href="https://github.com/zeative/starter-zaileys"><img src="https://img.shields.io/github/license/zeative/starter-zaileys" alt="GitHub License"></a>
+<a href="https://discord.gg/SfnWWYUe"><img alt="Discord" src="https://img.shields.io/discord/1105833273415962654?logo=discord&label=discord"></a>
+<a href="https://github.com/zeative/starter-zaileys"><img src="https://img.shields.io/github/stars/zeative/starter-zaileys" alt="GitHub Stars"></a>
+<a href="https://github.com/zeative/starter-zaileys"><img src="https://img.shields.io/github/forks/zeative/starter-zaileys" alt="GitHub Forks"></a>
+<a href="https://github.com/zeative/starter-zaileys"><img src="https://img.shields.io/github/watchers/zeative/starter-zaileys" alt="GitHub Watchers"></a>
+
+</div>
 
 <br />
 
@@ -26,7 +17,7 @@
 
 ## 🚀 Overview
 
-`starter-zaileys` is a robust and ready-to-use template for building WhatsApp automation bots using the [Zaileys](https://github.com/zeative/zaileys) library. It comes pre-configured with essential features, best practices, and a modular structure to help you kickstart your project immediately.
+`starter-zaileys` is a robust and ready-to-use template for building WhatsApp automation bots using the [Zaileys](https://github.com/zeative/starter-zaileys) library. It comes pre-configured with essential features, best practices, and a modular structure to help you kickstart your project immediately.
 
 ## 🛠️ Prerequisites
 
