@@ -1,0 +1,32 @@
+{
+  "name": "starter-zaileys",
+  "version": "1.0.0",
+  "description": "Starter kit for Zaileys Library.",
+  "keywords": [
+    "starter",
+    "zaileys",
+    "whatsapp",
+    "automation",
+    "ai"
+  ],
+  "homepage": "https://github.com/zeative/starter-zaileys#readme",
+  "bugs": {
+    "url": "https://github.com/zeative/starter-zaileys/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeative/starter-zaileys.git"
+  },
+  "license": "MIT",
+  "author": "zaadevofc",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "zaileys": "^2.0.4"
+  }
+}
