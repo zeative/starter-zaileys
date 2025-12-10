@@ -9,6 +9,8 @@
 <a href="https://github.com/zeative/starter-zaileys"><img src="https://img.shields.io/github/forks/zeative/starter-zaileys" alt="GitHub Forks"></a>
 <a href="https://github.com/zeative/starter-zaileys"><img src="https://img.shields.io/github/watchers/zeative/starter-zaileys" alt="GitHub Watchers"></a>
 
+<br>
+<a href="https://discord.gg/SfnWWYUe"><img alt="Discord" src="https://discord.com/api/guilds/1105833273415962654/widget.png?style=banner2"></a>
 </div>
 
 <br />
