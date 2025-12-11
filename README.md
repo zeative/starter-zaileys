@@ -19,7 +19,7 @@
 
 ## 🚀 Overview
 
-`starter-zaileys` is a robust and ready-to-use template for building WhatsApp automation bots using the [Zaileys](https://github.com/zeative/starter-zaileys) library. It comes pre-configured with essential features, best practices, and a modular structure to help you kickstart your project immediately.
+`starter-zaileys` is a robust and ready-to-use template for building WhatsApp automation bots using the [Zaileys](https://github.com/zeative/zaileys) library. It comes pre-configured with essential features, best practices, and a modular structure to help you kickstart your project immediately.
 
 ## 🛠️ Prerequisites
 
