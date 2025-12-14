@@ -1,7 +1,7 @@
 <div align="center">
-  <img alt="Starter Kit for Zaileys Library" src="https://socialify.git.ci/zeative/starter-zaileys/image?custom_description=Starter+Kit+for+Zaileys+Library+github.com%2Fzeative%2Fzaileys&custom_language=TypeScript&description=1&font=Inter&language=1&pattern=Charlie+Brown&theme=Auto">
+  <img alt="Starter Kit for Zaileys Library Simplified WhatsApp Node.js" src="https://socialify.git.ci/zeative/starter-zaileys/image?custom_description=Starter+Kit+for+Zaileys+Library+github.com%2Fzeative%2Fzaileys&custom_language=TypeScript&description=1&font=Inter&language=1&pattern=Charlie+Brown&theme=Auto">
 
-  <h1 align="center">Starter Kit for Zaileys Library</h1>
+  <h1 align="center">Starter Kit for Zaileys Library Simplified WhatsApp Node.js</h1>
 
 <a href="https://github.com/zeative/starter-zaileys"><img src="https://img.shields.io/github/license/zeative/starter-zaileys" alt="GitHub License"></a>
 <a href="https://discord.gg/SfnWWYUe"><img alt="Discord" src="https://img.shields.io/discord/1105833273415962654?logo=discord&label=discord"></a>
