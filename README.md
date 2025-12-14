@@ -92,22 +92,6 @@ wa.on("messages", async (ctx) => {
 });
 ```
 
-## 📸 Command Previews
-
-Here are some examples of what the bot outputs look like:
-
-### `.help`
-
-![.help](/assets/help.jpeg)
-
-### `.menu`
-
-![.menu](/assets/menu.jpeg)
-
-### `.interactive`
-
-![.interactive](/assets/interactive.jpeg)
-
 ## 🎯 Issues & Feedback
 
 **If you encounter any problems or have feature requests, please open an [issue](https://github.com/zeative/starter-zaileys/issues)**

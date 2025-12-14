@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       zaileys:
-        specifier: latest
-        version: 2.0.7
+        specifier: 2.0.10
+        version: 2.0.10
 
 packages:
 
@@ -672,8 +672,8 @@ packages:
       utf-8-validate:
         optional: true
 
-  zaileys@2.0.7:
-    resolution: {integrity: sha512-JXJOeyUZPNC0tOSIDJ3hctHHkgPPbCBNBM7xxwyMMquB0Xb/eLj1hSTyInV+5e6QPmLVtu4E43DpXHN05WQtnQ==}
+  zaileys@2.0.10:
+    resolution: {integrity: sha512-aiovyOq9STRqjdJ1iN2cVYigRyaMeD5QaKo9l1+uCh8mojdCicAqu4hn7Faxw1CH9axvkURDYK6n33Kz0R5+hA==}
     engines: {node: '>=20.0.0'}
 
   zod@4.1.13:
@@ -1331,7 +1331,7 @@ snapshots:
 
   ws@8.18.3: {}
 
-  zaileys@2.0.7:
+  zaileys@2.0.10:
     dependencies:
       '@ffmpeg-installer/ffmpeg': 1.1.0
       '@ffprobe-installer/ffprobe': 2.1.2
