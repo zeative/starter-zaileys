@@ -9,17 +9,19 @@
 <a href="https://github.com/zeative/starter-zaileys"><img src="https://img.shields.io/github/forks/zeative/starter-zaileys" alt="GitHub Forks"></a>
 <a href="https://github.com/zeative/starter-zaileys"><img src="https://img.shields.io/github/watchers/zeative/starter-zaileys" alt="GitHub Watchers"></a>
 
+<div align="center">
+  <p>
+    <b>starter-zaileys</b> is a robust and ready-to-use template for building WhatsApp automation bots using the <a href="https://github.com/zeative/zaileys">Zaileys</a> library. It comes pre-configured with essential features, best practices, and a modular structure to help you kickstart your project immediately.
+  </p>
+</div>
+
 <br>
 <a href="https://discord.gg/SfnWWYUe"><img alt="Discord" src="https://discord.com/api/guilds/1105833273415962654/widget.png?style=banner2"></a>
 </div>
 
 <br />
 
-> **Starter kit for Zaileys Library** - Simplified WhatsApp Node.js TypeScript/JavaScript API.
-
-## 🚀 Overview
-
-`starter-zaileys` is a robust and ready-to-use template for building WhatsApp automation bots using the [Zaileys](https://github.com/zeative/zaileys) library. It comes pre-configured with essential features, best practices, and a modular structure to help you kickstart your project immediately.
+---
 
 ## 🛠️ Prerequisites
 
