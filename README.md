@@ -37,6 +37,8 @@
   <a href="https://discord.gg/SfnWWYUe"><img alt="Discord" src="https://discord.com/api/guilds/1105833273415962654/widget.png?style=banner2"></a>
 </div>
 
+</div>
+
 <br>
 
 ---
