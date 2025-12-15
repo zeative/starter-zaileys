@@ -100,7 +100,7 @@ structure of ctx on event listener 'messages'
   "uniqueId": "Z4D3FCxxxxxx",
 
   "chatId": "XXXXXXXXXX",
-  "chatType": "text", // image, sticker, ...
+  "chatType": "text" /* image, sticker, ... */,
 
   "receiverId": "628xxxxxx@s.whatsapp.net", // or lid
   "receiverName": "Zaileys AI",
