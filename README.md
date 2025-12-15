@@ -92,6 +92,66 @@ wa.on("messages", async (ctx) => {
 });
 ```
 
+structure of ctx on event listener 'messages'
+
+```json
+{
+  "channelId": "Z4D3FCxxxxxx",
+  "uniqueId": "Z4D3FCxxxxxx",
+
+  "chatId": "XXXXXXXXXX",
+  "chatType": "text", // image, sticker, ...
+
+  "receiverId": "628xxxxxx@s.whatsapp.net", // or lid
+  "receiverName": "Zaileys AI",
+
+  "roomId": "1234567890@g.us", // or user id
+  "roomName": "Group Testing Zaileys", // or user room
+
+  "senderLid": "2453xxxxxx@lid",
+  "senderId": "6289876543210@s.whatsapp.net",
+  "senderName": "Kejaa",
+  "senderDevice": "web", // android, ios, ...
+
+  "timestamp": 1741039212,
+
+  "text": "World Hello! https://github.com/zaileys",
+  "mentions": ["@628xxxxxx", "@1234567890"],
+  "links": ["https://github.com/zaileys"],
+
+  "isBot": true,
+  "isFromMe": true,
+  "isPrefix": false,
+  "isSpam": false,
+  "isTagMe": false,
+  "isGroup": false,
+  "isNewsletter": false,
+  "isQuestion": false,
+  "isStory": false,
+  "isViewOnce": false,
+  "isEdited": false,
+  "isDeleted": false,
+  "isPinned": false,
+  "isUnPinned": true,
+  "isBroadcast": false,
+  "isEphemeral": false,
+  "isForwarded": false,
+
+  "citation": null,
+
+  "media": {
+    // ...
+    // buffer promise
+    // stream promise
+  },
+
+  "message": null,
+
+  // sender replied nested max 3
+  "replied": {} // MessagesContext
+}
+```
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please follow these steps:
