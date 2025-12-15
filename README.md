@@ -1,102 +1,110 @@
-<div align="center">
-  <img alt="Starter Kit for Zaileys Library Simplified WhatsApp Node.js" src="https://socialify.git.ci/zeative/starter-zaileys/image?custom_description=Starter+Kit+for+Zaileys+Library+github.com%2Fzeative%2Fzaileys&custom_language=TypeScript&description=1&font=Inter&language=1&pattern=Charlie+Brown&theme=Auto">
+<dd align="center">
 
-  <h1 align="center">Starter Kit for Zaileys Library Simplified WhatsApp Node.js</h1>
+<img alt="Starter Kit for Zaileys Library Simplified WhatsApp Node.js" src="https://github.com/zeative/zeative/blob/main/libraries/zaileys/zaileys-clean.png?raw=true" width="140">
 
-<a href="https://github.com/zeative/starter-zaileys"><img src="https://img.shields.io/github/license/zeative/starter-zaileys" alt="GitHub License"></a>
-<a href="https://discord.gg/SfnWWYUe"><img alt="Discord" src="https://img.shields.io/discord/1105833273415962654?logo=discord&label=discord"></a>
-<a href="https://github.com/zeative/starter-zaileys"><img src="https://img.shields.io/github/stars/zeative/starter-zaileys" alt="GitHub Stars"></a>
-<a href="https://github.com/zeative/starter-zaileys"><img src="https://img.shields.io/github/forks/zeative/starter-zaileys" alt="GitHub Forks"></a>
-<a href="https://github.com/zeative/starter-zaileys"><img src="https://img.shields.io/github/watchers/zeative/starter-zaileys" alt="GitHub Watchers"></a>
+<h1 align="center">Starter Kit for Zaileys Library Simplified WhatsApp Node.js</h1>
+
+<br>
 
 <div align="center">
-  <p>
-    <b>starter-zaileys</b> is a robust and ready-to-use template for building WhatsApp automation bots using the <a href="https://github.com/zeative/zaileys">Zaileys</a> library. It comes pre-configured with essential features, best practices, and a modular structure to help you kickstart your project immediately.
-  </p>
+  <a href="https://www.npmjs.com/package/zaileys"><img src="https://img.shields.io/npm/v/zaileys.svg" alt="NPM Version"></a>
+  <a href="https://www.npmjs.com/package/zaileys"><img src="https://img.shields.io/npm/dw/zaileys?label=npm&color=%23CB3837" alt="NPM Downloads"></a>
+  <a href="https://github.com/zeative/zaileys/releases"><img src="https://img.shields.io/npm/dt/zaileys" alt="NPM Downloads"></a>
+  <a href="https://github.com/zeative/zaileys"><img src="https://img.shields.io/github/languages/code-size/zeative/zaileys" alt="GitHub Code Size"></a>
+  <a href="https://github.com/zeative/zaileys"><img src="https://img.shields.io/badge/TypeScript-5.0%2B-blue?style=flat-square&logo=typescript" alt="TypeScript"></a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/zeative/zaileys"><img src="https://img.shields.io/github/license/zeative/zaileys" alt="GitHub License"></a>
+  <a href="https://discord.gg/SfnWWYUe"><img alt="Discord" src="https://img.shields.io/discord/1105833273415962654?logo=discord&label=discord&link=https%3A%2F%2Fgithub.com%2Fzeative%2Fzaileys"></a>
+  <a href="https://github.com/zeative/zaileys"><img src="https://img.shields.io/github/stars/zeative/zaileys" alt="GitHub Stars"></a>
+  <a href="https://github.com/zeative/zaileys"><img src="https://img.shields.io/github/forks/zeative/zaileys" alt="GitHub Forks"></a>
+  <a href="https://github.com/zeative/zaileys"><img src="https://img.shields.io/github/watchers/zeative/zaileys" alt="GitHub Watchers"></a>
+  <a href="https://deepwiki.com/zeative/zaileys"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
 </div>
 
 <br>
-<a href="https://discord.gg/SfnWWYUe"><img alt="Discord" src="https://discord.com/api/guilds/1105833273415962654/widget.png?style=banner2"></a>
-</div>
 
-<br />
+<dl align="center">
+  <dd>
+    <b>starter-zaileys</b> is a robust and ready-to-use template for building WhatsApp automation bots using the <a href="https://github.com/zeative/zaileys">Zaileys library</a>. It comes pre-configured with essential features, best practices, and a modular structure to help you kickstart your project immediately.
+  </dd>
+</dl>
+
+<br>
+
+<dd align="center">
+  <a href="https://discord.gg/SfnWWYUe"><img alt="Discord" src="https://discord.com/api/guilds/1105833273415962654/widget.png?style=banner2"></a>
+</dd>
+
+<br>
 
 ---
 
-## 🛠️ Prerequisites
+## 🚀 Overview
 
-- **Node.js**: Version 20 or higher.
-- **npm** or **pnpm**: Package manager.
+> Zaileys solves the complexity of managing raw WhatsApp socket connections by providing a high-level, opinionated API. It is built for developers who need to create bots, customer support agents, or automated notification systems without getting bogged down in protocol details.
+
+Targeting **Node.js** and **TypeScript** developers, Zaileys integrates essential features like rate limiting, session management, and input validation out of the box.
+
+### 🤖 [Official Zaileys Library](https://github.com/zeative/zaileys)
 
 ## 📦 Installation
 
-1.  **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/zeative/starter-zaileys.git
-    cd starter-zaileys
-    ```
-
-2.  **Install dependencies:**
-
-    ```bash
-    npm install
-    # or
-    pnpm install
-    ```
-
-## 🚀 Usage
-
-### Development
-
-Run the bot in development mode with hot-reloading:
+Clone the repository, install and running it.
 
 ```bash
-npm run dev
+$ git clone https://github.com/zeative/starter-zaileys.git
+$ cd starter-zaileys
+
+$ npm install
+$ npm start
 ```
 
-### Production
+## ⚡ Quick Start
 
-Start the bot in production mode:
+Here is a minimal example to get your bot running with QR code authentication:
 
-```bash
-npm start
-```
-
-## 💡 Code Example
-
-Here's a quick look at how to initialize the client and handle messages:
-
-```javascript
+```typescript
 import { Client } from "zaileys";
+// or
+const { Client } = require("zaileys");
 
 const wa = new Client({
+  // dynamic session you can change
+  session: "zaileys", // default
+
+  // qr code
   authType: "qr",
 
-  fakeReply: {
-    provider: "chatgpt",
-  },
+  // pairing code
+  authType: "pairing",
+  phoneNumber: 6280000000,
+
+  // if you want to disable built-in ffmpeg
+  // disableFFmpeg: true,
 });
 
-// Middleware to prevent spam
-wa.use(async (ctx, next) => {
-  if (ctx.messages.isSpam) {
-    return await wa.send(ctx.messages.roomId, "Don't spam!");
-  }
-  await next();
-});
-
-// Handle incoming messages
 wa.on("messages", async (ctx) => {
-  if (ctx.text === ".ping") {
-    await wa.send(ctx.roomId, "Pong!");
+  if (ctx.text == "ping") {
+    await wa.send(ctx.roomId, "Pong! 🏓");
   }
 });
 ```
+
+## 🤝 Contributing
+
+Contributions are welcome! Please follow these steps:
+
+1.  Fork the repository.
+2.  Create new branch: `git checkout -b feature/my-feature`.
+3.  Commit your changes: `git commit -m 'Add some feature'`.
+4.  Push to the branch: `git push origin feature/my-feature`.
+5.  Open Pull Request.
 
 ## 🎯 Issues & Feedback
 
-**If you encounter any problems or have feature requests, please open an [issue](https://github.com/zeative/starter-zaileys/issues)**
+**If you encounter any problems or have feature requests, please open an [issue](https://github.com/zeative/zaileys/issues)**
 
 - [Buy me coffee ☕](https://saweria.co/zaadevofc)
 - [Ko-Fi](https://ko-fi.com/zaadevofc)
@@ -105,4 +113,11 @@ wa.on("messages", async (ctx) => {
 
 ## 📜 License
 
-Distributed under the **MIT License**. See [`LICENSE`](https://github.com/zeative/starter-zaileys/blob/main/LICENSE) for details.
+Distributed under the **MIT License**. See [`LICENSE`](https://github.com/zeative/zaileys/blob/main/LICENSE) for details.
+
+<div align="left">
+  <p>
+    <img alt="Starter Kit for Zaileys Library Simplified WhatsApp Node.js" src="https://github.com/zeative/zeative/blob/main/libraries/zaileys/zaileys-clean.png?raw=true" width="28" align="center">
+    Copyright © 2025 zaadevofc. All rights reserved.
+  </p>
+</div>
