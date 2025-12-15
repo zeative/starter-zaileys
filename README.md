@@ -2,7 +2,7 @@
 
 <img alt="Starter Kit for Zaileys Library Simplified WhatsApp Node.js" src="https://github.com/zeative/zeative/blob/main/libraries/zaileys/zaileys-clean.png?raw=true" width="140">
 
-<h1 align="center">Starter Kit for Zaileys Library Simplified WhatsApp Node.js</h1>
+<h1 align="center">Starter Kit for Zaileys Library <br /> Simplified WhatsApp Node.js</h1>
 
 <br>
 
