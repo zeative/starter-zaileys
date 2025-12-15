@@ -115,9 +115,9 @@ structure of ctx on event listener 'messages'
 
   "timestamp": 1741039212,
 
-  "text": "World Hello! https://github.com/zaileys",
+  "text": "World Hello! https://github.com/zeative/zaileys",
   "mentions": ["@628xxxxxx", "@1234567890"],
-  "links": ["https://github.com/zaileys"],
+  "links": ["https://github.com/zeative/zaileys"],
 
   "isBot": true,
   "isFromMe": true,
