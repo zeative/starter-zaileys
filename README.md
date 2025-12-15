@@ -1,4 +1,4 @@
-<dd align="center">
+<div align="center">
 
 <img alt="Starter Kit for Zaileys Library Simplified WhatsApp Node.js" src="https://github.com/zeative/zeative/blob/main/libraries/zaileys/zaileys-clean.png?raw=true" width="140">
 
@@ -25,17 +25,17 @@
 
 <br>
 
-<dl align="center">
-  <dd>
+<div align="center">
+  <p>
     <b>starter-zaileys</b> is a robust and ready-to-use template for building WhatsApp automation bots using the <a href="https://github.com/zeative/zaileys">Zaileys library</a>. It comes pre-configured with essential features, best practices, and a modular structure to help you kickstart your project immediately.
-  </dd>
-</dl>
+  </p>
+</div>
 
 <br>
 
-<dd align="center">
+<div align="center">
   <a href="https://discord.gg/SfnWWYUe"><img alt="Discord" src="https://discord.com/api/guilds/1105833273415962654/widget.png?style=banner2"></a>
-</dd>
+</div>
 
 <br>
 
