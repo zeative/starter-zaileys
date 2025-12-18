@@ -98,58 +98,66 @@ structure of ctx on event listener 'messages'
 
 ```jsonc
 {
-  "channelId": "Z4D3FCxxxxxx",
-  "uniqueId": "Z4D3FCxxxxxx",
+  "uniqueId": "Z4D3FCXXXXXXXXXXXXX",
+  "channelId": "Z4D3FCXXXXXXXXXXXXX",
 
-  "chatId": "XXXXXXXXXX",
-  "chatType": "text", // image, sticker, ...
+  "chatId": "ACAE07XXXXXXXXXXXXX",
+  "chatType": "text",
 
-  "receiverId": "628xxxxxx@s.whatsapp.net", // or lid
-  "receiverName": "Zaileys AI",
+  "receiverId": "628xxxxxxxx@s.whatsapp.net",
+  "receiverName": "Zaileys",
 
-  "roomId": "1234567890@g.us", // or user id
-  "roomName": "Group Testing Zaileys", // or user room
+  "roomId": "120xxxxxxxx@g.us",
+  "roomName": "Group Test",
+  "senderLid": "272xxxxxxxx@lid",
 
-  "senderLid": "2453xxxxxx@lid",
-  "senderId": "628xxxxxx@s.whatsapp.net",
-  "senderName": "Kejaa",
-  "senderDevice": "web", // android, ios, ...
+  "senderId": "628xxxxxxxx@s.whatsapp.net",
+  "senderName": "kejaa",
+  "senderDevice": "android",
 
-  "timestamp": 1741039212,
-
+  "timestamp": 1766045633000,
   "text": "World Hello! https://github.com/zeative/zaileys",
-  "mentions": ["@628xxxxxx", "@1234567890"],
+
+  "mentions": ["@628xxxxxxxx", "@123xxxxxxxx"],
   "links": ["https://github.com/zeative/zaileys"],
 
-  "isBot": true,
-  "isFromMe": true,
+  "isBot": false,
+  "isFromMe": false,
   "isPrefix": false,
-  "isSpam": false,
   "isTagMe": false,
-  "isGroup": false,
+
+  "isStatusMention": false,
+  "isGroupStatusMention": false,
+  "isHideTags": true,
+
+  "isSpam": false,
+  "isGroup": true,
   "isNewsletter": false,
   "isQuestion": false,
   "isStory": false,
+
   "isViewOnce": false,
   "isEdited": false,
   "isDeleted": false,
   "isPinned": false,
-  "isUnPinned": true,
+  "isUnPinned": false,
+
   "isBroadcast": false,
   "isEphemeral": false,
   "isForwarded": false,
 
-  "citation": null,
-
-  "media": {
-    // ...
-    // buffer promise
-    // stream promise
+  "citation": {
+    "authors": [AsyncFunction (anonymous)],
+    "banned": [AsyncFunction (anonymous)]  
   },
 
-  "message": null,
+  "media": {
+  // ...
+  // buffer promise
+  // stream promise
+  },
 
-  // sender replied nested max 3
+  "message": [Function (anonymous)],
   "replied": {} // MessagesContext
 }
 ```
