@@ -27,6 +27,6 @@
     "dev": "node --watch index.js"
   },
   "dependencies": {
-    "zaileys": "2.1.6"
+    "zaileys": "2.1.8"
   }
 }
